@@ -1,2 +1,2 @@
 # WeedDetection
-使用FastRCNN进行杂草识别
+使用YOLO系列进行杂草识别
