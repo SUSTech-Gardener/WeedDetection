@@ -1,0 +1,8 @@
+data/val_images/agri_0_3.jpeg
+data/val_images/agri_0_57.jpeg
+data/val_images/agri_0_81.jpeg
+data/val_images/agri_0_6.jpeg
+data/val_images/agri_0_14.jpeg
+data/val_images/agri_0_76.jpeg
+data/val_images/agri_0_39.jpeg
+data/val_images/agri_0_60.jpeg
