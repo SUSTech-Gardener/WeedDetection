@@ -34,7 +34,7 @@ Data on https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-b
     2. Detection using pre train model
         - Using openCV (skip installation using requirements.txt file)
 
-- [x] ![将YOLO打包为ros 包，能够在ros中直接运行](https://github.com/SUSTech-Gardener/WeedDetection_ros)
+- [x] [将YOLO打包为ros 包，能够在ros中直接运行](https://github.com/SUSTech-Gardener/WeedDetection_ros)
 
 ## Training(not necessary):
 
