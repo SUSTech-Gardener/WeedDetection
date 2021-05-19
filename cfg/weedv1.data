@@ -1,8 +1,0 @@
-classes= 2
-train  = /home/roma-z/Documents/DeepLearning_demo/YOLO/darknet/data/train.txt
-valid  = /home/roma-z/Documents/DeepLearning_demo/YOLO/darknet/data/val.txt
-#valid = data/coco_val_5k.list
-names = data/weed.names
-backup = /home/roma-z/Documents/DeepLearning_demo/YOLO/darknet/
-# eval=coco
-
